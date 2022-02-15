@@ -1,0 +1,15 @@
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\LOGICA_TPVF.dll
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\LOGICA_TPVF.pdb
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\LOGICA_TPVF.xml
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\DATOS_TPVF.dll
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\DATOS_TPVF.pdb
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\DATOS_TPVF.xml
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\bin\Debug\DATOS_TPVF.dll.config
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.vbproj.AssemblyReference.cache
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.Resources.resources
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.vbproj.GenerateResource.cache
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.vbproj.CoreCompileInputs.cache
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.vbproj.CopyComplete
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.dll
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.xml
+C:\Users\Kebyn Cristopher\Desktop\Tesis\ProyectoTesis\ProyectoTesis_Terminal_Punto_De_Venta_Farmacias\LOGICA_TPVF\obj\Debug\LOGICA_TPVF.pdb
